@@ -4,6 +4,7 @@
 /node_modules
 react/node_modules
 /react/node_modules
+/server/node_modules
 /.pnp
 .pnp.js
 
@@ -16,6 +17,8 @@ react/node_modules
 # misc
 .DS_Store
 .env.local
+.env
+/server/.env
 .env.development.local
 .env.test.local
 .env.production.local
